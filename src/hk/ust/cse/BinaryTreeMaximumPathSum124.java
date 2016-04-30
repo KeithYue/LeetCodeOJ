@@ -1,5 +1,4 @@
 package hk.ust.cse;
-import java.util.*;
 
 public class BinaryTreeMaximumPathSum124 {
 	public int maxPathSum(TreeNode root){
