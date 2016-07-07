@@ -1,5 +1,4 @@
 package hk.ust.cse;
-import java.util.*;
 
 public class NumberofIslands200 {
 	public static void main(String []  args){
